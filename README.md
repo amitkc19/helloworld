@@ -1,1 +1,1 @@
-# helloworld - test unauthed webhook
+# helloworld - private channel test
